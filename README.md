@@ -96,7 +96,7 @@ ______________
     
     Курс «Фронтенд-разработчик»
     
-    *   [Спринт 6. Продвинутый JavaScript](https://practicum.yandex.ru/learn/associated-programs-frontend/courses/0c17836b-da8a-4eee-887b-c757914a5f97/sprints/342656/topics/5af93291-f093-4042-9672-259581104abc/lessons/250b2a4f-1abd-4df3-969e-3bdbad9121a0/)  
+    *   [Спринт 6. Продвинутый JavaScript](https://practicum.yandex.ru/learn/associated-programs-frontend-st/courses/32306fcc-a843-4b5b-8740-815118671b66/sprints/402278/topics/1e12427d-7bcf-47a8-97b0-4ff1a07f8011/lessons/ca8743e0-3383-48dc-ad1b-c7983ac25730/ )  
           
         
 *   Для вашего удобства мы сделали отдельную Я.Форму, через которую студенты могут направлять вам на электронные почты свои проектные работы. Вот ссылка на эту форму (она находится в контенте курса на платформе Практикума):
